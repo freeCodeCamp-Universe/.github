@@ -1,8 +1,12 @@
-# freeCodeCamp Universe
-
 [![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
-[freeCodeCamp Universe](https://github.com/freeCodeCamp-Universe) is a collection of open-source applications created and maintained by the [freeCodeCamp](https://www.freecodecamp.org) community. Each project here started as a contribution from someone learning to code and building in the open.
+This GitHub organisation is home to freeCodeCamp's constellation sites and apps that orbit [`/learn`](https://www.freecodecamp.org/learn), freeCodeCamp's core curriculum.
+
+These repositories support constellation sites, shared tooling, and developer infrastructure across the broader freeCodeCamp ecosystem.
+
+People can use **freeCodeCamp Auth** to sign in across constellation sites and keep site-specific data connected to their central freeCodeCamp account.
+
+Developers can use Universe tooling to build constellation apps and share them publicly.
 
 ## Get Involved
 
@@ -12,7 +16,8 @@
 
 ## Community
 
-Part of the broader [freeCodeCamp](https://github.com/freeCodeCamp) ecosystem. Learn more at [freecodecamp.org](https://www.freecodecamp.org).
+- Join our Discord Chat room: https://chat.freecodecamp.org
+- Join our Discourse forum: https://forum.freecodecamp.org
 
 ## Support freeCodeCamp
 
